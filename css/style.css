@@ -11,10 +11,11 @@
 }
 
 .text-bg-primary{
-    background-color: rgba (120,94,240,.5) !important;
+    background-color: rgba(120,94,240,.5) !important;
 }
+
 .text-bg-secondary{
-    background-color: rgba (021,026,036,.5) !important; 
+    background-color: rgba(021,026,036,.5) !important; 
 }
 
 em{
